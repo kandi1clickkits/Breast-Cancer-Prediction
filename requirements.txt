@@ -1,2 +1,2 @@
-sklearn
-jupyter
+jupyter==1.0.0
+scikit-learn==1.2.2
